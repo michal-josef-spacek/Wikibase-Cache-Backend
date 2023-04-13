@@ -10,7 +10,7 @@ use Readonly;
 
 Readonly::Array our @TYPES => qw(description label);
 
-our $VERSION = 0.03;
+our $VERSION = 0.04;
 
 sub new {
 	my ($class, @params) = @_;
