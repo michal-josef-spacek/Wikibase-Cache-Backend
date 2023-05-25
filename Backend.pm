@@ -10,7 +10,7 @@ use Readonly;
 
 Readonly::Array our @TYPES => qw(description label);
 
-our $VERSION = 0.04;
+our $VERSION = 0.05;
 
 sub new {
 	my ($class, @params) = @_;
@@ -215,6 +215,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.04
+0.05
 
 =cut
