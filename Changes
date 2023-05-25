@@ -1,5 +1,6 @@
 0.04
  - Add doc.
+ - Add tests.
  - Update Module::Install to 1.21 version.
 
 0.03 2023-04-13T09:23:14+02:00

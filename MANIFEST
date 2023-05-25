@@ -19,5 +19,8 @@ README
 SIGNATURE
 t/Wikibase-Cache-Backend/01-use.t
 t/Wikibase-Cache-Backend/02-version.t
+t/Wikibase-Cache-Backend/03-new.t
+t/Wikibase-Cache-Backend/04-get.t
+t/Wikibase-Cache-Backend/05-save.t
 xt/Wikibase-Cache-Backend/01-pod_coverage.t
 xt/Wikibase-Cache-Backend/02-pod.t
