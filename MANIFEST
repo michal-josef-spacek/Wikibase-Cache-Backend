@@ -1,5 +1,6 @@
 Backend.pm
 Changes
+examples/simple_cache_backend.pl
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
 inc/Module/Install/AuthorTests.pm
